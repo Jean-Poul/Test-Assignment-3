@@ -1,0 +1,11 @@
+
+ 
+java:S11926"‚Define a constant instead of duplicating this literal "select ID, customerId, employeeId, date, start, end from Bookings" 3 times.(¿ÃËÚ8ÎÉ¯‰¿0
+\
+java:S1192="FDefine a constant instead of duplicating this literal "start" 3 times.(í†Ò
+a
+java:S1192:"KDefine a constant instead of duplicating this literal "customerId" 3 times.(™ôÏÎ
+a
+java:S1192;"KDefine a constant instead of duplicating this literal "employeeId" 3 times.(¿¸Ê
+?
+java:S1128")Remove this unused import 'dto.Customer'.(Ç¤Õ¡
