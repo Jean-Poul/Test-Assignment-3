@@ -16,10 +16,10 @@ Furthermore, Docker has been used to spin up a MySQL docker container to be able
 *I have been given the task to implement and test a booking system that involves Booking, Customer and Employee services*  
 
 ### 1.1 In-depth explanation
-*Further explanation for this assignment can be found at the following link: :point_right:*  
+*Further explanation for this assignment can be found at the following link: :point_down:*  
 [Assignment 3](https://www.example.com)  
   
-**Results: **  
+**Results:**  
 ![Green test](https://github.com/Jean-Poul/Test-Assignment-3/blob/main/pictures/results.PNG)  
   
 ### 1.2 Instructions
